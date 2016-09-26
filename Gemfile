@@ -28,6 +28,8 @@ gem 'jquery-turbolinks'
 gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 gem 'masonry-rails'
+gem 'will_paginate', '~> 3.1.0'
+gem 'will_paginate-bootstrap'
 
 
 
